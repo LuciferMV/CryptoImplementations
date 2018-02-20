@@ -1,4 +1,8 @@
 // writing Transposition Cipher in a modular and flexible way
+/*
+It provides flexibility to user have as many rounds of transposition, as he/she/it wants...
+
+*/
 #include <bits/stdc++.h>
 #include <ctime>
 #include <cstring>
